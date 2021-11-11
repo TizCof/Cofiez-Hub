@@ -1,0 +1,4 @@
+-- Free Version Cofiez-Hub
+Print("No bitch")
+Wait()
+game.Players.LocalPlayer:Kick("Got scammed")
